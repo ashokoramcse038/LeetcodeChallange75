@@ -24,11 +24,13 @@ public:
             return  NULL;
         }
         slow = head;
+        // ListNode *prev=NULL; // must be define
         while(slow!=fast){
             slow = slow->next;
+            // prev = fast; // must be define
             fast = fast->next;
         }
-
+        // prev->next = NULL; use for remove the cycle 
         return slow;
         
     }
