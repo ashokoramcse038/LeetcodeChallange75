@@ -40,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0021-merge-two-sorted-lists) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
