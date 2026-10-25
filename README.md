@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0004-median-of-two-sorted-arrays) |
+| [0706-design-hashmap](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0706-design-hashmap) |
 ## Binary Search
 |  |
 | ------- |
@@ -20,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0142-linked-list-cycle-ii) |
+| [0706-design-hashmap](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0706-design-hashmap) |
 ## Linked List
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0142-linked-list-cycle-ii) |
+| [0706-design-hashmap](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1518-water-bottles](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1518-water-bottles) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
