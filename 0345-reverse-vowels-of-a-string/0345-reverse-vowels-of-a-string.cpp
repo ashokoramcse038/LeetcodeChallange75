@@ -5,7 +5,7 @@ public:
         int j=s.size()-1;
         while (i < j) {
         while (i < j) {
-            char ch = tolower(static_cast<unsigned char>(s[i]));
+            char ch = tolower(s[i]);
 
             if (ch == 'a' || ch == 'e' || ch == 'i' ||
                 ch == 'o' || ch == 'u') {
