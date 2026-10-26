@@ -15,7 +15,7 @@ public:
         }
 
         while (i < j) {
-            char ch = tolower(static_cast<unsigned char>(s[j]));
+            char ch = tolower(s[j]);
 
             if (ch == 'a' || ch == 'e' || ch == 'i' ||
                 ch == 'o' || ch == 'u') {
