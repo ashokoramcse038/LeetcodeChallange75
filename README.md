@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0142-linked-list-cycle-ii) |
+| [0345-reverse-vowels-of-a-string](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0345-reverse-vowels-of-a-string) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0706-design-hashmap) |
+## String
+|  |
+| ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0345-reverse-vowels-of-a-string) |
 <!---LeetCode Topics End-->
