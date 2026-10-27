@@ -4,13 +4,10 @@ public:
         string ans;
         int index = 0;
         while(index<address.size()){
-            if(address[index]=='.'){
+            if(address[index]=='.')
                 ans+="[.]";
-                
-            }
-            else{
+            else
                 ans+=address[index];
-            }
             index++;
         }
         return ans;
