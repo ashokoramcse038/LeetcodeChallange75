@@ -87,8 +87,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0409-longest-palindrome) |
+| [1859-sorting-the-sentence](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1859-sorting-the-sentence) |
 ## Greedy
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0409-longest-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1859-sorting-the-sentence) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
