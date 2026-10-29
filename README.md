@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0004-median-of-two-sorted-arrays) |
 | [0706-design-hashmap](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0706-design-hashmap) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0004-median-of-two-sorted-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1859-sorting-the-sentence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2785-sort-vowels-in-a-string) |
 ## Bubble Sort
 |  |
