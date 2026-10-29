@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0004-median-of-two-sorted-arrays) |
 | [0706-design-hashmap](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0706-design-hashmap) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2574-left-and-right-sum-differences](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2574-left-and-right-sum-differences) |
 ## Binary Search
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1859-sorting-the-sentence](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1859-sorting-the-sentence) |
+## Prefix Sum
+|  |
+| ------- |
+| [2574-left-and-right-sum-differences](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
