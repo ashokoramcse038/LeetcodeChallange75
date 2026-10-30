@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1108-defanging-an-ip-address) |
 | [1859-sorting-the-sentence](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1859-sorting-the-sentence) |
 | [2785-sort-vowels-in-a-string](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2785-sort-vowels-in-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -111,4 +112,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2574-left-and-right-sum-differences) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
