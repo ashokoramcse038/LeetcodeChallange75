@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0706-design-hashmap) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2574-left-and-right-sum-differences) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1137-n-th-tribonacci-number) |
 | [1518-water-bottles](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1518-water-bottles) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
