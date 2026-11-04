@@ -126,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Database
+|  |
+| ------- |
+| [0197-rising-temperature](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0197-rising-temperature) |
 <!---LeetCode Topics End-->
