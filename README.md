@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0014-longest-common-prefix) |
 | [0706-design-hashmap](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0706-design-hashmap) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2574-left-and-right-sum-differences) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0014-longest-common-prefix) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0409-longest-palindrome) |
 | [1108-defanging-an-ip-address](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1108-defanging-an-ip-address) |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1661-average-time-of-process-per-machine](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1757-recyclable-and-low-fat-products) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
