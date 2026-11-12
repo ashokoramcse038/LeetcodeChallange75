@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0014-longest-common-prefix) |
+| [0347-top-k-frequent-elements](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0347-top-k-frequent-elements) |
 | [0706-design-hashmap](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0706-design-hashmap) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2574-left-and-right-sum-differences) |
@@ -20,12 +21,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0142-linked-list-cycle-ii) |
+| [0347-top-k-frequent-elements](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0347-top-k-frequent-elements) |
 | [0409-longest-palindrome](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0409-longest-palindrome) |
 | [0706-design-hashmap](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0706-design-hashmap) |
 ## Linked List
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0347-top-k-frequent-elements) |
 | [1859-sorting-the-sentence](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2785-sort-vowels-in-a-string) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0347-top-k-frequent-elements) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -148,4 +153,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0014-longest-common-prefix) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
