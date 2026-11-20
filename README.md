@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0014-longest-common-prefix) |
 | [0347-top-k-frequent-elements](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0347-top-k-frequent-elements) |
 | [0706-design-hashmap](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0706-design-hashmap) |
+| [0912-sort-an-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0912-sort-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2574-left-and-right-sum-differences](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2574-left-and-right-sum-differences) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0912-sort-an-array) |
 | [1859-sorting-the-sentence](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2785-sort-vowels-in-a-string](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/2785-sort-vowels-in-a-string) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0912-sort-an-array) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -157,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0347-top-k-frequent-elements) |
+| [0912-sort-an-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -165,4 +170,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0347-top-k-frequent-elements) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/ashokoramcse038/LeetcodeChallange75/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
